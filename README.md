@@ -28,9 +28,6 @@ This project uses **TensorFlow** and **transfer learning** to build a deep learn
 
 ---
 
-Thanks for clarifying! Since you'll **only upload the Jupyter Notebook** to GitHub, here's how you can include a **Colab-friendly note** in the `README.md` (or at the top of the notebook) explaining how users should manually organize the files:
-
----
 
 ### 📁 Expected File Structure (for Google Colab users)
 
